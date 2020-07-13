@@ -1,0 +1,28 @@
+body {
+   margin: auto 15px;
+background-color: #d7d7d9;
+font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #929296;
+    background-color: antiquewhite;
+    margin-top: 0;
+    height: 50px;
+    font-size: 45px;
+    text-transform: uppercase;
+   
+}
+
+li {
+    align-items: center;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
